@@ -1,5 +1,3 @@
-Communication Diagram: Add a new advert to a campaign
-
 
 +-------------------+        +----------------------+        +-------------+
 | :CampaignManager  |------->| :AddAdvertBoundary   |------->| :AddAdvert  |
